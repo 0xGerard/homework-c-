@@ -1,6 +1,6 @@
 # Homework C/C++
 
-El repositorio contiene una lista de ejericios, trabajos, proyectos pequeños desarrollados en C/C++ con el objetivo de ayudar. 
+Este repositorio incluye una colección de ejercicios, trabajos y pequeños proyectos desarrollados en C/C++, con el propósito de servir de apoyo a estudiantes y desarrolladores.
 
 # Lista de ejercicios
 - [Suma y multiplicación de matrices](matriz-suma-multiplica)
